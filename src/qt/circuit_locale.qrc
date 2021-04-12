@@ -1,0 +1,18 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="de">locale/circuit_de.qm</file>
+        <file alias="en">locale/circuit_en.qm</file>
+        <file alias="en_US">locale/circuit_en_US.qm</file>
+        <file alias="es">locale/circuit_es.qm</file>
+        <file alias="es_ES">locale/circuit_es_ES.qm</file>
+        <file alias="fr_FR">locale/circuit_fr_FR.qm</file>
+        <file alias="hr_HR">locale/circuit_hr_HR.qm</file>
+        <file alias="it">locale/circuit_it.qm</file>
+        <file alias="ko_KR">locale/circuit_ko_KR.qm</file>
+        <file alias="nl">locale/circuit_nl.qm</file>
+        <file alias="pl">locale/circuit_pl.qm</file>
+        <file alias="ru">locale/circuit_ru.qm</file>
+        <file alias="tr">locale/circuit_tr.qm</file>
+        <file alias="zh_CN">locale/circuit_zh_CN.qm</file>
+    </qresource>
+</RCC>

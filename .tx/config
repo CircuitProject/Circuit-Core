@@ -1,0 +1,7 @@
+[main]
+host = https://www.transifex.com
+
+[circuit-project-translations.qt-translation-50x]
+file_filter = src/qt/locale/circuit_<lang>.ts
+source_file = src/qt/locale/circuit_en.ts
+source_lang = en
